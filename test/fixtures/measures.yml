@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Patient_Name: MyString
+  Date: 1.5
+  Time: 1.5
+  Temperature: 1.5
+  Oxi_Levels: 1.5
+  Heart_Rate: 1.5
+
+two:
+  Patient_Name: MyString
+  Date: 1.5
+  Time: 1.5
+  Temperature: 1.5
+  Oxi_Levels: 1.5
+  Heart_Rate: 1.5
